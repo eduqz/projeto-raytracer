@@ -1,6 +1,7 @@
 #include <cmath>
 #include <iostream>
 
+// Vector class to represent a vector object in the space
 class Vector {
 private:
     float x, y, z;

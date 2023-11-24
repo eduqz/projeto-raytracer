@@ -1,6 +1,7 @@
 #include <cmath>
 #include <iostream>
 
+// Point class to represent a point in the space
 class Point {
 private:
     float x, y, z;

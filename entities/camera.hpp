@@ -3,6 +3,7 @@
 #include "point.hpp"
 #include "vector.hpp"
 
+// Camera class to represent the scene camera object
 class Camera {
 private:
     Point location;      // Camera's location
